@@ -463,6 +463,11 @@
   font-weight: 700;
   text-transform: capitalize;
   letter-spacing: 1px;
+  -webkit-text-stroke-width: 1px;
+  stroke-width: 1px;
+  -webkit-text-stroke-color: #111;
+  stroke: #111;
+  text-shadow: 0px 1px 0px #111;
 }
 
 .elementor-8
