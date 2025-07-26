@@ -1,9 +1,8 @@
 .elementor-8 .elementor-element.elementor-element-18251ee {
   margin-top: 0px;
-  margin-bottom: -105px;
+  margin-bottom: -26px;
   z-index: 90;
 }
-
 .elementor-bc-flex-widget
   .elementor-8
   .elementor-element.elementor-element-bb7e503.elementor-column
@@ -283,7 +282,7 @@
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
   background-color: transparent;
-  background-image: linear-gradient(180deg, #fdc800 0%, #ef4400 49%);
+  background-image: linear-gradient(to bottom, #fdc800 0%, #ef440091 70%);
 }
 
 .elementor-8 .elementor-element.elementor-element-8e69b94 {
@@ -3340,9 +3339,7 @@ body.rtl .elementor-8 .elementor-element.elementor-element-c60ad14 {
 }
 
 .elementor-8 .elementor-element.elementor-element-7aa76d00 {
-  border-style: solid;
-  border-width: 2px 0px 0px 0px;
-  border-color: #003198;
+  border: none;
   transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
   padding: 25px 25px 25px 25px;
 }
